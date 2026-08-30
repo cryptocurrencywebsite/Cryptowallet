@@ -6,8 +6,8 @@
 
 /* ================= DEMO LOGIN DETAILS ================= */
 
-const DEMO_EMAIL = "milly@crypto.com";
-const DEMO_PASSWORD = "milly123";
+const DEMO_EMAIL = "reshatmurati@crypto.com";
+const DEMO_PASSWORD = "reshat2026";
 
 
 /* ================= ELEMENTS ================= */
